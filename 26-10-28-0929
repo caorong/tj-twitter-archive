@@ -1,0 +1,126 @@
+# TJ Research 日报｜2026-10-28
+
+**统计区间：**2026-10-27 09:25 至 2026-10-28 09:25（Asia/Shanghai，北京时间）  
+**观察对象：**[投资TALK君 @TJ_Research](https://x.com/TJ_Research)  
+**采集与时间方法：**以 [TwStalker 公开镜像](https://twstalker.com/TJ_Research)中可追溯的原帖及回复为基础，用 X 帖子状态 ID 的 Snowflake 时间字段换算北京时间，对照原帖链接判定是否落入窗口。X 官方时间线无法作为完整可读取数据源；下述发帖数是**可核实的下限**，可能漏掉未收录或已删除发言，时间换算不是 X 官方 API 返回的发帖时间。公司数据另以投资者关系披露核验。
+
+## 1. 过去 24 小时发帖概况
+
+镜像首页本次核对到**至少 12 条**属于统计区间的 @TJ_Research 独立原帖或回复，其中有较高投资分析价值的内容约 **4 条**（HOOD/COIN 财报对比、主动管理与 AI 投资纪律，以及两条简短的财报/交易方法讨论）；其余以社交互动、玩笑、付费群防骗与 AI 自动评论现象为主。集中在北京时间 10 月 27 日中午/下午，以及 10 月 28 日凌晨至早晨。本期未发现经独立核实的本人买卖成交单。
+
+| 北京时间（ID 辅助换算） | TJ 帖文或回复 | 重点 |
+| --- | --- | --- |
+| 10-27 10:25 | [Tesla 日常短评](https://x.com/TJ_Research/status/2114906239108858050) | 仅称 Tesla 波动/下跌常见，非实际交易 |
+| 10-27 10:26 | [关于 AI 评论账号的回复](https://x.com/TJ_Research/status/2114906584354836741) | 社区互动，不是新的财务数据 |
+| 10-27 12:44 | [不建议为某些内容订阅 X 的短评](https://x.com/TJ_Research/status/2114941241309716626) | 订阅相关答复 |
+| 10-27 12:44 | [财报前上涨、财报后是否卖消息](https://x.com/TJ_Research/status/2114941373019197791) | 用反问句探讨 sell the news；非卖出指令 |
+| 10-27 14:20 | [评论区 AI 账号增多](https://x.com/TJ_Research/status/2114965443689517551) | 平台内容质量观察；未核实运营方或目的 |
+| 10-27 14:24 | [调侃 Jim Cramer 的短帖](https://x.com/TJ_Research/status/2114966532442710489) | 情绪/幽默，不构成可交易胜率证据 |
+| 10-28 00:39 | [明确不提供短线机会付费群](https://x.com/TJ_Research/status/2115121119267360822) | 防止冒充、反对声称精准短线择时 |
+| 10-28 02:15 | [简短轻松互动](https://x.com/TJ_Research/status/2115145402353639790) | 无独立投资结论 |
+| 10-28 02:58 | [近 9000 亿美元管理机构图表与主动投资困境](https://x.com/TJ_Research/status/2115156182532870590) | 主动基金跑输、量化追趋势、AI 认知偏差与风险管理 |
+| 10-28 05:56 | [理发玩笑回复](https://x.com/TJ_Research/status/2115200981722136698) | 非投资主题 |
+| 10-28 07:42 | [HOOD 与 COIN 收入结构对比](https://x.com/TJ_Research/status/2115227682661085329) | **今日最有数据含量的新帖** |
+| 10-28 08:13 | [对 HOOD/COIN 讨论的“Coin?”回复](https://x.com/TJ_Research/status/2115235456317034859) | 简短互动，语义不足以推导交易立场 |
+
+**重要时间纠偏：**镜像还显示两条高信息密度的发言：10 月 27 日约 **06:23** 的 [2027 年配置框架（现金牛软件、医疗、半导体、Agent、公司债）](https://x.com/TJ_Research/status/2114845384367358453)，以及约 **08:49** 的 [云收入增长/利润率论点](https://x.com/TJ_Research/status/2114882145898348665)。**这两条均在本期 09:25 起点之前，因此不计入今日 12 条，不冒充今日新观点。**由于 10 月 27 日已归档报告未突出这两条，这里把它们作为前一窗口的迟收录补充背景。
+
+## 2. 主要观点与结论
+
+### A. HOOD vs COIN：从加密交易依赖，转向多业务变现能力的比较
+
+**TJ 原始观点：**他以 Robinhood 的 2024 Q4 和 2026 Q3 财务结构对比，指出加密货币交易收入从 **3.58 亿美元**降至 **1.20 亿美元**，股票交易收入从 **0.61 亿美元**升至 **1.21 亿美元**；2026 Q3 事件合约/预测市场贡献 **1.73 亿美元**。据此认为 HOOD 的业务拓展执行力比 Coinbase 强，市场给予 HOOD 较高估值亦有其依据。帖子同时称 HOOD 总收入比所比较的旧季度高约 30%，并称 Coinbase 最近一期营收只有历史高点的一半。[原帖](https://x.com/TJ_Research/status/2115227682661085329)。
+
+**独立事实核验：**Robinhood [2026-10-27 发布的 2026 Q3 官方财报](https://investors.robinhood.com/news-releases/news-release-details/robinhood-reports-third-quarter-2026-results)给出总净收入 **14.24 亿美元**（同比 2025 Q3 **+12%**）、事件合约 **1.73 亿**、股票 **1.21 亿**、加密 **1.20 亿**、期权 **3.99 亿**。Robinhood [2024 Q4 官方财报](https://investors.robinhood.com/news-releases/news-release-details/robinhood-reports-fourth-quarter-and-full-year-2024-results)给出总净收入 **10.14 亿**、加密 **3.58 亿**、股票 **0.61 亿**。因此若确实以 **2024 Q4 为分母**，**2026 Q3 总收入提升约 40.4%**，而非帖文所称约 30%；应明确这一比较口径误差。不同业务分项数字基本与公司披露吻合。加密收入两期对比约下降 **66.5%**，股票交易收入约增长 **98.4%**。
+
+**Coinbase 对照边界：**[Coinbase 2026-07-30 发布的 Q2 2026 财报](https://investor.coinbase.com/news/news-details/2026/Coinbase-Q2-Earnings-Everything-Exchange-Drives-3rd-Consecutive-Quarter-of-Record-Crypto-Trading-Volume-Market-Share-Revenue-Diversification-and-Resilience/default.aspx)与[2024 Q4 股东信](https://investor.coinbase.com/files/doc_financials/2024/q4/Q4-24-Shareholder-Letter.pdf)支持其近期总收入相对高点偏弱；但截至北京时间 **10 月 28 日上午，其 Q3 2026 尚未发布**，因此不能把 HOOD 的 **2026 Q3**与 COIN 的 **2026 Q2**当作同季业绩直接判定管理层执行力高下。Coinbase 自述订阅/服务收入提升、预测市场增长，也并非完全没有业务多元化。
+
+**分析推断：**HOOD 事件合约收入高于加密交易收入，说明增长来源确实改变；但**“多元化”不等于风险一定更低**：事件合约仍有交易量周期、监管、争议合约和竞争风险；HOOD Q3 **GAAP 净利润同比下降 14% 至 4.76 亿美元**，EPS 降至 **0.51 美元**，估值溢价应结合利润、客户资产净流入、获客成本和各业务的可持续性检验。新闻流中的盘后跌幅可用作短期市场反应，但不能凭一次盘后价格变化解释经营长期胜负。
+
+### B. 主动基金困境：从看错行情延伸到对 AI 时代投资研究方法的反思
+
+**TJ 原始观点：**他展示一张据称来自约 **9000 亿美元 AUM** 机构的基金回报与指数对比图，称该机构某策略过去 3—5 年表现令人失望，并由此讨论过去几年 bottom-up 主动选股基金在指数集中上涨背景下容易掉队，systematic/量化趋势策略相对顺风；部分从业多年的 PM 对 AI 认知迟缓，只愿追 ASML/TSM 等标的、不愿承受高 beta 半导体波动。[原帖及图表入口](https://x.com/TJ_Research/status/2115156182532870590)。
+
+**数据核验边界：**该帖子没有公开可独立辨认的机构名称、完整基金净值、具体指数、费用、币种、风险暴露或图表所涵盖精确时段。**“900B、过去三年/五年跑输、量化整体表现更好”只能作为博主见闻和举例，不能当作已完成行业总体统计研究**。主动/被动比较需要控制风格、费用、风险及幸存者偏差。
+
+**分析推断：**TJ 的主要新意不是“所有主动基金都不行”，而是强调 AI 产业发展速度超出既有分析框架时，投资者应持续更新基本面假设，避免经验变成认知锚；同时反对只因股价涨跌改变逻辑，主张**用仓位管理风险、基本面错误时及时退出**。这与此前不主观猜顶、管理半导体回撤的论述一致，但在“选股还是指数、主动还是量化”的层面扩展了话题。
+
+### C. 财报与交易纪律：反问“sell the news”，拒绝短期荐股群
+
+**博主观点：**在某股财报前可能上涨的讨论里，TJ 反问财报后是否应“sell the news”，没有给出明确仓位、触发价或执行单。[相关回复](https://x.com/TJ_Research/status/2114941373019197791)。他随后表示自己不认为能把短期机会精准判断清楚，因此不会开短线荐股群，并提醒读者警惕冒充账号。[反短线群原帖](https://x.com/TJ_Research/status/2115121119267360822)。
+
+**分析推断：**本期无证据说明他已因某家公司“利好落地”卖出。把反问句当成交易信号风险很高；财报交易应分别考察预期差、指引、订单、利润率、估值和波动率。
+
+### D. 补记前一窗口的重要配置框架（**不计为今日发言**）
+
+10 月 27 日约 06:23，TJ 曾提出未来 2027 年的**条件性**配置思路：偏好现金流稳定的软件、医疗受益 AI 的 alpha、资本开支相对低的半导体、META/GOOG/AAPL/QCOM 智能体方向，并考虑当大型科技公司债收益率超过 7% 时增加债券。这是**前一统计窗口的迟发现内容**，不是今天的新发言，也不是实际完成的调仓。[原帖](https://x.com/TJ_Research/status/2114845384367358453)。关于债券尤其应区分国债利率整体上行与公司信用利差扩大：前者和后者对风险回报的意义不同，“7%”是其个人观察阈值而非保证安全的买点。当天 08:49，他还强调大云新增产能上线后的收入增速与利润率是财报关键，[发言链接](https://x.com/TJ_Research/status/2114882145898348665)；同样不计入今天的发帖数。
+
+## 3. 公司、行业、宏观与市场主题
+
+| 分类 | 公司/标的 | 本期观察 |
+| --- | --- | --- |
+| 金融科技、交易平台 | **HOOD**、**COIN** | HOOD 事件合约与期权增量对冲了加密交易疲弱；COIN Q3 财报尚待发布，注意跨季度比较陷阱 |
+| AI/半导体、主动管理 | ASML、TSM、高 beta 半导体、主动股票基金、趋势量化 | 主动经理认知与指数集中度、风格暴露、资金规模的相互作用；缺少基金全样本统计 |
+| 云计算、AI 平台 | GOOG、MSFT、AMZN、META、AAPL、QCOM | 今日仅零散财报交易反问；关于大云收入与 2027 配置的大段观点实际发表于前一窗口，按日期纠偏 |
+| 市场机制和平台生态 | AI 自动评论、虚假荐股群、财报事件交易 | 社交账户真实性与信息噪声；警惕伪装博主的投资群 |
+| 宏观/资本成本（补记） | 大科技公司债、医疗、现金牛软件 | “7% 以上关注债券”等出自 10/27 06:23 旧帖，不能当作本期新交易 |
+
+## 4. 重要数据、图表和引用信息
+
+1. **HOOD 官方 Q3 2026**：总净收入 **$1.424B**（同比 +12%），事件合约 **$173M**、加密 **$120M**、股票 **$121M**、期权 **$399M**、GAAP 净利润 **$476M**（同比 -14%）、摊薄 EPS **$0.51**。来源：[Robinhood Q3 2026 官方披露](https://investors.robinhood.com/news-releases/news-release-details/robinhood-reports-third-quarter-2026-results)。
+2. **HOOD 2024 Q4 对照**：总净收入 **$1.014B**、加密 **$358M**、股票 **$61M**；以该季度为基数比较，2026 Q3 总收入增长约 **40.4%**。来源：[Robinhood Q4 2024 官方披露](https://investors.robinhood.com/news-releases/news-release-details/robinhood-reports-fourth-quarter-and-full-year-2024-results)。注意这是**不同时点跨季度比较**，不等于 2026 Q3 同比增速。
+3. **COIN 可用财报期**：截至本期截点已公布的最近季度为 **2026 Q2**，总营收约 **$1.22B**，其 2024 Q4 高点约 **$2.3B**；Q3 2026 仍属待公布数据。来源：[Coinbase Q2 2026 官方](https://investor.coinbase.com/news/news-details/2026/Coinbase-Q2-Earnings-Everything-Exchange-Drives-3rd-Consecutive-Quarter-of-Record-Crypto-Trading-Volume-Market-Share-Revenue-Diversification-and-Resilience/default.aspx)、[Coinbase Q4 2024 股东信](https://investor.coinbase.com/files/doc_financials/2024/q4/Q4-24-Shareholder-Letter.pdf)。Coinbase 还强调 2026 Q2 非 BTC 现货交易的净收入占比为 88%，其口径**不同于** HOOD 的分部财报口径。
+4. **TJ 主动基金图**：提到机构规模约 **$900B**，图中据称“蓝线为基金，灰线为指数”，但缺乏机构名、完整数据序列、基准与风险口径，**不复述不可复核的收益率或绝对跑输幅度**。[原始图表帖子](https://x.com/TJ_Research/status/2115156182532870590)。
+5. **未见新的可复核精确模型**：本期没有证据表明 TJ 发布了新的 HOOD 目标价、COIN 2026 Q3 准确财报、云业务未来营收模型、主动基金全行业统计或个人实际买卖成交凭证。
+
+## 5. 与上一期相比：新增、强化、弱化与反转
+
+**比较基线：**已读取 GitHub `main` 上 [10/27](https://github.com/caorong/tj-twitter-archive/blob/main/26-10-27-0930.md)、[10/26](https://github.com/caorong/tj-twitter-archive/blob/main/26-10-26-0930.md)、[10/25](https://github.com/caorong/tj-twitter-archive/blob/main/26-10-25-0926.md)、[10/24](https://github.com/caorong/tj-twitter-archive/blob/main/26-10-24-0933.md)、[10/23](https://github.com/caorong/tj-twitter-archive/blob/main/26-10-23-0935.md)五份成功归档历史。10/21、10/22 在该时间段无成功归档文件，不以缺档推断当天无发言。
+
+- **明确新增：HOOD/COIN 经营执行力横向比较。** 前一期主轴是新云信用分层、微软成本调整、Anthropic 增长；今天切换到金融科技**收入结构与预测市场**，且提供了可用官方财报核对的具体数字。
+- **明确新增：主动投资者与 AI 认知风险。** 不再只谈具体算力公司融资，而是反思高集中度指数、量化趋势和主动基金投资方法；关于单一 900B 机构的图表没有独立统计佐证。
+- **延续而非反转：**仍强调 AI 不确定性下必须更新研究、控制仓位；反对把短线预测当作稳定服务。当前窗口没有证据说明全面看空 AI、清仓半导体、实际卖出 AMZN 或买入 GOOG。
+- **补记上一窗口：**10 月 27 日 06:23 的 2027 配置框架以及 08:49 的云增长观点，虽然值得跟踪，均**不进入今日 12 条**，以免镜像迟显示造成跨日报日期漂移。
+- **缺少新证据：**之前的 NBIS/CRWV 融资、Anthropic IPO 与微软自愿离职主题今天没有看到可核实的新进展发言；不重复旧闻为“今天新消息”。
+
+## 6. 值得继续跟踪的投资线索
+
+1. **HOOD vs COIN 的“非加密营收”真实质量**：跟踪 HOOD 事件合约收入占比、交易人数/合约量与费用率、期权收入、Gold 客户、净入金与 EPS；对比 COIN Q3 2026 即将披露的收入结构、稳定币与订阅服务收入、衍生品和预测市场变现。判断 HOOD 的估值溢价能否被利润率和复购证实，而非只看季度绝对收入。
+2. **预测市场监管风险与业务韧性**：Robinhood 官方披露明确提示事件合约的监管变化、争议与可能被限制某些合约的风险。收入从加密转到事件合约虽拓宽场景，不代表彻底去周期。
+3. **主动/量化/指数风险**：观察大市值权重集中度、等权指数与标普/纳指差异、科技投资主题的拥挤度，以及基金基准和风格差异；仅凭单张图不能判断量化未来持续获胜。
+4. **本周大科技财报检验**：继续跟踪微软、Alphabet 的云收入/利润率和资本开支，以及亚马逊即将公布的 AWS 增速与现金流；其 2027 配置框架（补记旧帖）需要以盈利与企业债信用利差实际数据约束。
+
+## 7. 风险、事实核验与不确定性
+
+- **社媒覆盖**：X 官方页面无法提供可完全核对的时间线，TwStalker 对旧帖有重排、显示“a day ago”等粗粒度相对时间的情况；以具体原帖 ID 的时间字段辅助分窗，不把其他网友回复误写为 TJ 的观点，12 条只保证“至少”。
+- **同比/环比混淆**：HOOD 2026 Q3 **同比 +12%**，对比 2024 Q4 则约 **+40.4%**。TJ 的“比当时高 30%”与选择的 Q4 2024 基期并不一致。加密收入同比下降 55% 与相对 2024 Q4 下降约 66.5% 也不是同一口径。
+- **跨公司跨期比较**：COIN 2026 Q3 截至统计点尚未发布，不能通过 HOOD 2026 Q3 与 COIN 2026 Q2 的直接比较推导长期执行力胜负；COIN 也有稳定币、订阅服务和其他非现货业务。
+- **收益率与图表**：900B 机构的基金业绩、量化系统性跑赢、部分经理看不懂 AI 均为博主个人见闻或评论，缺少独立样本与可复核净值数据。
+- **交易纪律**：sell the news、反短期机会群、Tesla 波动与前一窗口 2027 配置展望不是实际成交确认；行情、信用、流动性和预测市场监管风险可能同时出现。本文不构成投资建议。
+
+## 8. 实际使用的主要来源链接
+
+**TJ 原始发言、镜像：**
+- [TJ Research X 账号](https://x.com/TJ_Research)
+- [TwStalker 公开镜像](https://twstalker.com/TJ_Research)
+- [10/28 HOOD/COIN 对比](https://x.com/TJ_Research/status/2115227682661085329)
+- [10/28 主动投资、量化和 AI 认知讨论及图片](https://x.com/TJ_Research/status/2115156182532870590)
+- [10/28 不做短期荐股群](https://x.com/TJ_Research/status/2115121119267360822)
+- [10/27 财报后卖消息的反问](https://x.com/TJ_Research/status/2114941373019197791)
+- [10/27 AI 评论账户](https://x.com/TJ_Research/status/2114965443689517551)
+- [上一统计窗口迟补：2027 配置](https://x.com/TJ_Research/status/2114845384367358453)
+- [上一统计窗口迟补：云增长](https://x.com/TJ_Research/status/2114882145898348665)
+
+**企业披露与独立核验：**
+- [Robinhood，2026-10-27：Q3 2026 官方结果](https://investors.robinhood.com/news-releases/news-release-details/robinhood-reports-third-quarter-2026-results)
+- [Robinhood，2025-02-12：Q4 2024 官方结果](https://investors.robinhood.com/news-releases/news-release-details/robinhood-reports-fourth-quarter-and-full-year-2024-results)
+- [Coinbase，2026-07-30：Q2 2026 官方结果](https://investor.coinbase.com/news/news-details/2026/Coinbase-Q2-Earnings-Everything-Exchange-Drives-3rd-Consecutive-Quarter-of-Record-Crypto-Trading-Volume-Market-Share-Revenue-Diversification-and-Resilience/default.aspx)
+- [Coinbase，Q4 2024 股东信（2025 发布）](https://investor.coinbase.com/files/doc_financials/2024/q4/Q4-24-Shareholder-Letter.pdf)
+- [Reuters，2026-07-30：Coinbase Q2 收入与市场环境](https://www.reuters.com/business/finance/crypto-exchange-coinbase-reports-third-straight-quarterly-loss-trading-slowdown-2026-07-30/)
+
+**历史归档：**
+- [2026-10-27 报告](https://github.com/caorong/tj-twitter-archive/blob/main/26-10-27-0930.md)
+- [2026-10-26 报告](https://github.com/caorong/tj-twitter-archive/blob/main/26-10-26-0930.md)
+- [2026-10-25 报告](https://github.com/caorong/tj-twitter-archive/blob/main/26-10-25-0926.md)
+
+**结论：**今天最可验证的新变化是从 AI neocloud 信用风险转向 **Robinhood 经营结构升级与 Coinbase 横向对比**；另一条主要观点是高集中度市场中主动基金、量化与投资者持续学习的纪律。HOOD 分部数据整体可核实，但跨期总收入“+30%”说法并不准确；基金回报图缺少统计基础。对上述观点应持续以公司财报和可复核数据验证。
